@@ -16,6 +16,3 @@ Postgraduate Economist specializing in Open Economy Macroeconomics — an econom
 ![](https://github-contributor-stats.vercel.app/api?username=gitmainaks&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://komarev.com/ghpvc/?username=gitmainaks&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
